@@ -1,0 +1,10 @@
+.custom-table .small-text {
+    font-size: 0.875rem; /* Small text size */
+  }
+  
+  .custom-table .small-text {
+    max-width: 150px; /* Adjust the width as needed */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }

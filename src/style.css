@@ -1,0 +1,29 @@
+.login-page {
+    background: url('path/to/your/background-image.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .login-card {
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-card .CButton {
+    width: 100%;
+  }
+  
+  .text-body-secondary {
+    color: #6c757d;
+  }
+  
+  .CButton-link {
+    text-decoration: none;
+    color: #007bff;
+    cursor: pointer;
+  }
+  

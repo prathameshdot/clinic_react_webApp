@@ -1,0 +1,49 @@
+.upcoming-appointments-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .upcoming-appointments-card {
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .card-title {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .card-subtitle {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .appointments-table {
+    margin-bottom: 30px;
+  }
+  
+  .appointments-table th,
+  .appointments-table td {
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .appointments-calendar {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  
+  .show-all-button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    font-weight: bold;
+  }
+  
